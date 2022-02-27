@@ -11,7 +11,7 @@ Quando o CEP é encontrado na API será retornado as informações da API já pr
 <br> 
 
 <h1 align="center">
-    <img alt="readme" title="GeradorSenha" src="./assets/validandocep.gif" />
+    <img alt="readme" title="GeradorSenha" src="validandocep.gif" />
 </h1>
 
 <br>
